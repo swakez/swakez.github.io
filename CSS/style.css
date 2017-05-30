@@ -19,12 +19,13 @@ html {
 body {    
     font-family: 'Open Sans', sans-serif;
     margin: 0;
+    padding-top: 50px;
 }
 
-a {
+/*a {
     color: #EF233C;
 }
-
+*/
 a:hover{
     text-decoration: none;
 }
@@ -132,6 +133,7 @@ footer h2{
 /*
 Navigation
 -----------------------------*/
+/*
 nav{
     text-align: center;
     background: white;
@@ -141,13 +143,14 @@ nav{
     margin-bottom: 10px;
 }
 
+
 nav a{
     display: inline-block;
     padding: 15px 20px;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 700;
-}
+} */
 
 /*
 skills
