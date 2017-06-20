@@ -12,6 +12,7 @@
     width: 100px;
     height: auto;  
 }
+
 @media (min-width: 768px) {
     .img-profile {
         width: 150px;         
@@ -23,12 +24,14 @@
     }
     
 }
+
 @media (min-width: 992px) {
     .img-profile {
         
         width: 200px;    
     }
 }
+
 @media (min-width: 1200px) {
     .img-profile {        
         width: 250px;       
@@ -84,7 +87,7 @@ h1, h2 {
     /* font-weight: 400;*/
 }
 h1{
-    font-size: 4em;
+    font-size: 4.5em;
 }
 
 h2 {
